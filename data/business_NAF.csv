@@ -1,0 +1,736 @@
+name;code
+Culture de céréales (à l'exception du riz), de légumineuses et de graines oléagineuses;0111Z
+Culture du riz;0112Z
+Culture de légumes, de melons, de racines et de tubercules;0113Z
+Culture de la canne à sucre;0114Z
+Culture du tabac;0115Z
+Culture de plantes à fibres;0116Z
+Autres cultures non permanentes;0119Z
+Culture de la vigne;0121Z
+Culture de fruits tropicaux et subtropicaux;0122Z
+Culture d'agrumes;0123Z
+Culture de fruits à pépins et à noyau;0124Z
+Culture d'autres fruits d'arbres ou d'arbustes et de fruits à coque;0125Z
+Culture de fruits oléagineux;0126Z
+Culture de plantes à boissons;0127Z
+Culture de plantes à épices, aromatiques, médicinales et pharmaceutiques;0128Z
+Autres cultures permanentes;0129Z
+Reproduction de plantes;0130Z
+Élevage de vaches laitières;0141Z
+Élevage d'autres bovins et de buffles;0142Z
+Élevage de chevaux et d'autres équidés;0143Z
+Élevage de chameaux et d'autres camélidés;0144Z
+Élevage d'ovins et de caprins;0145Z
+Élevage de porcins;0146Z
+Élevage de volailles;0147Z
+Élevage d'autres animaux;0149Z
+Culture et élevage associés;0150Z
+Activités de soutien aux cultures;0161Z
+Activités de soutien à la production animale;0162Z
+Traitement primaire des récoltes;0163Z
+Traitement des semences;0164Z
+Chasse, piégeage et services annexes;0170Z
+Sylviculture et autres activités forestières;0210Z
+Exploitation forestière;0220Z
+Récolte de produits forestiers non ligneux poussant à l'état sauvage;0230Z
+Services de soutien à l'exploitation forestière;0240Z
+Pêche en mer;0311Z
+Pêche en eau douce;0312Z
+Aquaculture en mer;0321Z
+Aquaculture en eau douce;0322Z
+Extraction de houille;0510Z
+Extraction de lignite;0520Z
+Extraction de pétrole brut;0610Z
+Extraction de gaz naturel;0620Z
+Extraction de minerais de fer;0710Z
+Extraction de minerais d'uranium et de thorium;0721Z
+Extraction d'autres minerais de métaux non ferreux;0729Z
+Extraction de pierres ornementales et de construction, de calcaire industriel, de gypse, de craie et d'ardoise;0811Z
+Exploitation de gravières et sablières, extraction d'argiles et de kaolin;0812Z
+Extraction des minéraux chimiques et d'engrais minéraux;0891Z
+Extraction de tourbe;0892Z
+Production de sel;0893Z
+Autres activités extractives n.c.a.;0899Z
+Activités de soutien à l'extraction d'hydrocarbures;0910Z
+Activités de soutien aux autres industries extractives;0990Z
+Transformation et conservation de la viande de boucherie;1011Z
+Transformation et conservation de la viande de volaille;1012Z
+Préparation industrielle de produits à base de viande;1013A
+Charcuterie;1013B
+Transformation et conservation de poisson, de crustacés et de mollusques;1020Z
+Transformation et conservation de pommes de terre;1031Z
+Préparation de jus de fruits et légumes;1032Z
+Autre transformation et conservation de légumes;1039A
+Transformation et conservation de fruits;1039B
+Fabrication d'huiles et graisses brutes;1041A
+Fabrication d'huiles et graisses raffinées;1041B
+Fabrication de margarine et graisses comestibles similaires;1042Z
+Fabrication de lait liquide et de produits frais;1051A
+Fabrication de beurre;1051B
+Fabrication de fromage;1051C
+Fabrication d'autres produits laitiers;1051D
+Fabrication de glaces et sorbets;1052Z
+Meunerie;1061A
+Autres activités du travail des grains;1061B
+Fabrication de produits amylacés;1062Z
+Fabrication industrielle de pain et de pâtisserie fraîche;1071A
+Cuisson de produits de boulangerie;1071B
+Boulangerie et boulangerie-pâtisserie;1071C
+Pâtisserie;1071D
+Fabrication de biscuits, biscottes et pâtisseries de conservation;1072Z
+Fabrication de pâtes alimentaires;1073Z
+Fabrication de sucre;1081Z
+Fabrication de cacao, chocolat et de produits de confiserie;1082Z
+Transformation du thé et du café;1083Z
+Fabrication de condiments et assaisonnements;1084Z
+Fabrication de plats préparés;1085Z
+Fabrication d'aliments homogénéisés et diététiques;1086Z
+Fabrication d'autres produits alimentaires n.c.a.;1089Z
+Fabrication d'aliments pour animaux de ferme;1091Z
+Fabrication d'aliments pour animaux de compagnie;1092Z
+Production de boissons alcooliques distillées;1101Z
+Fabrication de vins effervescents;1102A
+Vinification;1102B
+Fabrication de cidre et de vins de fruits;1103Z
+Production d'autres boissons fermentées non distillées;1104Z
+Fabrication de bière;1105Z
+Fabrication de malt;1106Z
+Industrie des eaux de table;1107A
+Production de boissons rafraîchissantes;1107B
+Fabrication de produits à base de tabac;1200Z
+Préparation de fibres textiles et filature;1310Z
+Tissage;1320Z
+Ennoblissement textile;1330Z
+Fabrication d'étoffes à mailles;1391Z
+Fabrication d'articles textiles, sauf habillement;1392Z
+Fabrication de tapis et moquettes;1393Z
+Fabrication de ficelles, cordes et filets;1394Z
+Fabrication de non-tissés, sauf habillement;1395Z
+Fabrication d'autres textiles techniques et industriels;1396Z
+Fabrication d'autres textiles n.c.a.;1399Z
+Fabrication de vêtements en cuir;1411Z
+Fabrication de vêtements de travail;1412Z
+Fabrication de vêtements de dessus;1413Z
+Fabrication de vêtements de dessous;1414Z
+Fabrication d'autres vêtements et accessoires;1419Z
+Fabrication d'articles en fourrure;1420Z
+Fabrication d'articles chaussants à mailles;1431Z
+Fabrication d'autres articles à mailles;1439Z
+"Apprêt et tannage des cuirs ; préparation et teinture des fourrures";1511Z
+Fabrication d'articles de voyage, de maroquinerie et de sellerie;1512Z
+Fabrication de chaussures;1520Z
+Sciage et rabotage du bois, hors imprégnation;1610A
+Imprégnation du bois;1610B
+Fabrication de placage et de panneaux de bois;1621Z
+Fabrication de parquets assemblés;1622Z
+Fabrication de charpentes et d'autres menuiseries;1623Z
+Fabrication d'emballages en bois;1624Z
+"Fabrication d'objets divers en bois ; fabrication d'objets en liège, vannerie et sparterie";1629Z
+Fabrication de pâte à papier;1711Z
+Fabrication de papier et de carton;1712Z
+Fabrication de carton ondulé;1721A
+Fabrication de cartonnages;1721B
+Fabrication d'emballages en papier;1721C
+Fabrication d'articles en papier à usage sanitaire ou domestique;1722Z
+Fabrication d'articles de papeterie;1723Z
+Fabrication de papiers peints;1724Z
+Fabrication d'autres articles en papier ou en carton;1729Z
+Imprimerie de journaux;1811Z
+Autre imprimerie (labeur);1812Z
+Activités de pré-presse;1813Z
+Reliure et activités connexes;1814Z
+Reproduction d'enregistrements;1820Z
+Cokéfaction;1910Z
+Raffinage du pétrole;1920Z
+Fabrication de gaz industriels;2011Z
+Farming of poultry;124
+Fabrication de colorants et de pigments;2012Z
+Enrichissement et retraitement de matières nucléaires;2013A
+Fabrication d'autres produits chimiques inorganiques de base n.c.a.;2013B
+Fabrication d'autres produits chimiques organiques de base;2014Z
+Fabrication de produits azotés et d'engrais;2015Z
+Fabrication de matières plastiques de base;2016Z
+Fabrication de caoutchouc synthétique;2017Z
+Fabrication de pesticides et d'autres produits agrochimiques;2020Z
+Fabrication de peintures, vernis, encres et mastics;2030Z
+Fabrication de savons, détergents et produits d'entretien;2041Z
+Fabrication de parfums et de produits pour la toilette;2042Z
+Fabrication de produits explosifs;2051Z
+Fabrication de colles;2052Z
+Fabrication d'huiles essentielles;2053Z
+Fabrication d'autres produits chimiques n.c.a.;2059Z
+Fabrication de fibres artificielles ou synthétiques;2060Z
+Fabrication de produits pharmaceutiques de base;2110Z
+Fabrication de préparations pharmaceutiques;2120Z
+Fabrication et rechapage de pneumatiques;2211Z
+Fabrication d'autres articles en caoutchouc;2219Z
+Fabrication de plaques, feuilles, tubes et profilés en matières plastiques;2221Z
+Fabrication d'emballages en matières plastiques;2222Z
+Fabrication d'éléments en matières plastiques pour la construction;2223Z
+Fabrication de pièces techniques à base de matières plastiques;2229A
+Fabrication de produits de consommation courante en matières plastiques;2229B
+Fabrication de verre plat;2311Z
+Façonnage et transformation du verre plat;2312Z
+Fabrication de verre creux;2313Z
+Fabrication de fibres de verre;2314Z
+Fabrication et façonnage d'autres articles en verre, y compris verre technique;2319Z
+Fabrication de produits réfractaires;2320Z
+Fabrication de carreaux en céramique;2331Z
+Fabrication de briques, tuiles et produits de construction, en terre cuite;2332Z
+Fabrication d'articles céramiques à usage domestique ou ornemental;2341Z
+Fabrication d'appareils sanitaires en céramique;2342Z
+Fabrication d'isolateurs et pièces isolantes en céramique;2343Z
+Fabrication d'autres produits céramiques à usage technique;2344Z
+Fabrication d'autres produits céramiques;2349Z
+Fabrication de ciment;2351Z
+Fabrication de chaux et plâtre;2352Z
+Fabrication d'éléments en béton pour la construction;2361Z
+Fabrication d'éléments en plâtre pour la construction;2362Z
+Fabrication de béton prêt à l'emploi;2363Z
+Fabrication de mortiers et bétons secs;2364Z
+Fabrication d'ouvrages en fibre-ciment;2365Z
+Fabrication d'autres ouvrages en béton, en ciment ou en plâtre;2369Z
+Taille, façonnage et finissage de pierres;2370Z
+Fabrication de produits abrasifs;2391Z
+Fabrication d'autres produits minéraux non métalliques n.c.a.;2399Z
+Sidérurgie;2410Z
+Fabrication de tubes, tuyaux, profilés creux et accessoires correspondants en acier;2420Z
+Étirage à froid de barres;2431Z
+Laminage à froid de feuillards;2432Z
+Profilage à froid par formage ou pliage;2433Z
+Tréfilage à froid;2434Z
+Production de métaux précieux;2441Z
+Métallurgie de l'aluminium;2442Z
+Métallurgie du plomb, du zinc ou de l'étain;2443Z
+Métallurgie du cuivre;2444Z
+Métallurgie des autres métaux non ferreux;2445Z
+Élaboration et transformation de matières nucléaires;2446Z
+Fonderie de fonte;2451Z
+Fonderie d'acier;2452Z
+Fonderie de métaux légers;2453Z
+Fonderie d'autres métaux non ferreux;2454Z
+Fabrication de structures métalliques et de parties de structures;2511Z
+Fabrication de portes et fenêtres en métal;2512Z
+Fabrication de radiateurs et de chaudières pour le chauffage central;2521Z
+Fabrication d'autres réservoirs, citernes et conteneurs métalliques;2529Z
+Fabrication de générateurs de vapeur, à l'exception des chaudières pour le chauffage central;2530Z
+Fabrication d'armes et de munitions;2540Z
+"Forge, estampage, matriçage ; métallurgie des poudres";2550A
+Découpage, emboutissage;2550B
+Traitement et revêtement des métaux;2561Z
+Décolletage;2562A
+Mécanique industrielle;2562B
+Fabrication de coutellerie;2571Z
+Fabrication de serrures et de ferrures;2572Z
+Fabrication de moules et modèles;2573A
+Fabrication d'autres outillages;2573B
+Fabrication de fûts et emballages métalliques similaires;2591Z
+Fabrication d'emballages métalliques légers;2592Z
+Fabrication d'articles en fils métalliques, de chaînes et de ressorts;2593Z
+Fabrication de vis et de boulons;2594Z
+Fabrication d'articles métalliques ménagers;2599A
+Fabrication d'autres articles métalliques;2599B
+Fabrication de composants électroniques;2611Z
+Fabrication de cartes électroniques assemblées;2612Z
+Fabrication d'ordinateurs et d'équipements périphériques;2620Z
+Fabrication d'équipements de communication;2630Z
+Fabrication de produits électroniques grand public;2640Z
+Fabrication d'équipements d'aide à la navigation;2651A
+Fabrication d'instrumentation scientifique et technique;2651B
+Horlogerie;2652Z
+Fabrication d'équipements d'irradiation médicale, d'équipements électromédicaux et électrothérapeutiques;2660Z
+Fabrication de matériels optique et photographique;2670Z
+Fabrication de supports magnétiques et optiques;2680Z
+Fabrication de moteurs, génératrices et transformateurs électriques;2711Z
+Fabrication de matériel de distribution et de commande électrique;2712Z
+Fabrication de piles et d'accumulateurs électriques;2720Z
+Fabrication de câbles de fibres optiques;2731Z
+Fabrication d'autres fils et câbles électroniques ou électriques;2732Z
+Fabrication de matériel d'installation électrique;2733Z
+Fabrication d'appareils d'éclairage électrique;2740Z
+Fabrication d'appareils électroménagers;2751Z
+Fabrication d'appareils ménagers non électriques;2752Z
+Fabrication d'autres matériels électriques;2790Z
+Fabrication de moteurs et turbines, à l'exception des moteurs d'avions et de véhicules;2811Z
+Fabrication d'équipements hydrauliques et pneumatiques;2812Z
+Fabrication d'autres pompes et compresseurs;2813Z
+Fabrication d'autres articles de robinetterie;2814Z
+Fabrication d'engrenages et d'organes mécaniques de transmission;2815Z
+Fabrication de fours et brûleurs;2821Z
+Fabrication de matériel de levage et de manutention;2822Z
+Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques);2823Z
+Fabrication d'outillage portatif à moteur incorporé;2824Z
+Fabrication d'équipements aérauliques et frigorifiques industriels;2825Z
+Fabrication d'équipements d'emballage, de conditionnement et de pesage;2829A
+Fabrication d'autres machines d'usage général;2829B
+Fabrication de machines agricoles et forestières;2830Z
+Fabrication de machines-outils pour le travail des métaux;2841Z
+Fabrication d'autres machines-outils;2849Z
+Fabrication de machines pour la métallurgie;2891Z
+Fabrication de machines pour l'extraction ou la construction;2892Z
+Fabrication de machines pour l'industrie agro-alimentaire;2893Z
+Fabrication de machines pour les industries textiles;2894Z
+Fabrication de machines pour les industries du papier et du carton;2895Z
+Fabrication de machines pour le travail du caoutchouc ou des plastiques;2896Z
+Fabrication de machines d'imprimerie;2899A
+Fabrication d'autres machines spécialisées;2899B
+Construction de véhicules automobiles;2910Z
+Fabrication de carrosseries et remorques;2920Z
+Fabrication d'équipements électriques et électroniques automobiles;2931Z
+Fabrication d'autres équipements automobiles;2932Z
+Construction de navires et de structures flottantes;3011Z
+Construction de bateaux de plaisance;3012Z
+Construction de locomotives et d'autre matériel ferroviaire roulant;3020Z
+Construction aéronautique et spatiale;3030Z
+Construction de véhicules militaires de combat;3040Z
+Fabrication de motocycles;3091Z
+Fabrication de bicyclettes et de véhicules pour invalides;3092Z
+Fabrication d'autres équipements de transport n.c.a.;3099Z
+Fabrication de meubles de bureau et de magasin;3101Z
+Fabrication de meubles de cuisine;3102Z
+Fabrication de matelas;3103Z
+Fabrication de sièges d'ameublement d'intérieur;3109A
+Fabrication d'autres meubles et industries connexes de l'ameublement;3109B
+Frappe de monnaie;3211Z
+Fabrication d'articles de joaillerie et bijouterie;3212Z
+Fabrication d'articles de bijouterie fantaisie et articles similaires;3213Z
+Fabrication d'instruments de musique;3220Z
+Fabrication d'articles de sport;3230Z
+Fabrication de jeux et jouets;3240Z
+Fabrication de matériel médico-chirurgical et dentaire;3250A
+Fabrication de lunettes;3250B
+Fabrication d'articles de brosserie;3291Z
+Autres activités manufacturières n.c.a.;3299Z
+Réparation d'ouvrages en métaux;3311Z
+Réparation de machines et équipements mécaniques;3312Z
+Réparation de matériels électroniques et optiques;3313Z
+Réparation d'équipements électriques;3314Z
+Réparation et maintenance navale;3315Z
+Réparation et maintenance d'aéronefs et d'engins spatiaux;3316Z
+Réparation et maintenance d'autres équipements de transport;3317Z
+Réparation d'autres équipements;3319Z
+Installation de structures métalliques, chaudronnées et de tuyauterie;3320A
+Installation de machines et équipements mécaniques;3320B
+Conception d'ensemble et assemblage sur site industriel d'équipements de contrôle des processus industriels;3320C
+Installation d'équipements électriques, de matériels électroniques et optiques ou d'autres matériels;3320D
+Production d'électricité;3511Z
+Transport d'électricité;3512Z
+Distribution d'électricité;3513Z
+Commerce d'électricité;3514Z
+Production de combustibles gazeux;3521Z
+Distribution de combustibles gazeux par conduites;3522Z
+Commerce de combustibles gazeux par conduites;3523Z
+Production et distribution de vapeur et d'air conditionné;3530Z
+Captage, traitement et distribution d'eau;3600Z
+Collecte et traitement des eaux usées;3700Z
+Collecte des déchets non dangereux;3811Z
+Collecte des déchets dangereux;3812Z
+Traitement et élimination des déchets non dangereux;3821Z
+Traitement et élimination des déchets dangereux;3822Z
+Démantèlement d'épaves;3831Z
+Récupération de déchets triés;3832Z
+Dépollution et autres services de gestion des déchets;3900Z
+Promotion immobilière de logements;4110A
+Promotion immobilière de bureaux;4110B
+Promotion immobilière d'autres bâtiments;4110C
+Supports juridiques de programmes;4110D
+Construction de maisons individuelles;4120A
+Construction d'autres bâtiments;4120B
+Construction de routes et autoroutes;4211Z
+Construction de voies ferrées de surface et souterraines;4212Z
+Construction d'ouvrages d'art;4213A
+Construction et entretien de tunnels;4213B
+Construction de réseaux pour fluides;4221Z
+Construction de réseaux électriques et de télécommunications;4222Z
+Construction d'ouvrages maritimes et fluviaux;4291Z
+Construction d'autres ouvrages de génie civil n.c.a.;4299Z
+Travaux de démolition;4311Z
+Travaux de terrassement courants et travaux préparatoires;4312A
+Travaux de terrassement spécialisés ou de grande masse;4312B
+Forages et sondages;4313Z
+Travaux d'installation électrique dans tous locaux;4321A
+Travaux d'installation électrique sur la voie publique;4321B
+Travaux d'installation d'eau et de gaz en tous locaux;4322A
+Travaux d'installation d'équipements thermiques et de climatisation;4322B
+Travaux d'isolation;4329A
+Autres travaux d'installation n.c.a.;4329B
+Travaux de plâtrerie;4331Z
+Travaux de menuiserie bois et PVC;4332A
+Travaux de menuiserie métallique et serrurerie;4332B
+Agencement de lieux de vente;4332C
+Travaux de revêtement des sols et des murs;4333Z
+Travaux de peinture et vitrerie;4334Z
+Autres travaux de finition;4339Z
+Travaux de charpente;4391A
+Travaux de couverture par éléments;4391B
+Travaux d'étanchéification;4399A
+Travaux de montage de structures métalliques;4399B
+Travaux de maçonnerie générale et gros œuvre de bâtiment;4399C
+Autres travaux spécialisés de construction;4399D
+Location avec opérateur de matériel de construction;4399E
+Commerce de voitures et de véhicules automobiles légers;4511Z
+Commerce d'autres véhicules automobiles;4519Z
+Entretien et réparation de véhicules automobiles légers;4520A
+Entretien et réparation d'autres véhicules automobiles;4520B
+Commerce de gros d'équipements automobiles;4531Z
+Commerce de détail d'équipements automobiles;4532Z
+Commerce et réparation de motocycles;4540Z
+Intermédiaires du commerce en matières premières agricoles, animaux vivants, matières premières textiles et produits semi-finis;4611Z
+Centrales d'achat de carburant;4612A
+Autres intermédiaires du commerce en combustibles, métaux, minéraux et produits chimiques;4612B
+Intermédiaires du commerce en bois et matériaux de construction;4613Z
+Intermédiaires du commerce en machines, équipements industriels, navires et avions;4614Z
+Intermédiaires du commerce en meubles, articles de ménage et quincaillerie;4615Z
+Intermédiaires du commerce en textiles, habillement, fourrures, chaussures et articles en cuir;4616Z
+Centrales d'achat alimentaires;4617A
+Autres intermédiaires du commerce en denrées, boissons et tabac;4617B
+Intermédiaires spécialisés dans le commerce d'autres produits spécifiques;4618Z
+Centrales d'achat non alimentaires;4619A
+Autres intermédiaires du commerce en produits divers;4619B
+Commerce de gros (commerce interentreprises) de céréales, de tabac non manufacturé, de semences et d'aliments pour le bétail;4621Z
+Commerce de gros (commerce interentreprises) de fleurs et plantes;4622Z
+Commerce de gros (commerce interentreprises) d'animaux vivants;4623Z
+Commerce de gros (commerce interentreprises) de cuirs et peaux;4624Z
+Commerce de gros (commerce interentreprises) de fruits et légumes;4631Z
+Commerce de gros (commerce interentreprises) de viandes de boucherie;4632A
+Commerce de gros (commerce interentreprises) de produits à base de viande;4632B
+Commerce de gros (commerce interentreprises) de volailles et gibier;4632C
+Commerce de gros (commerce interentreprises) de produits laitiers, œufs, huiles et matières grasses comestibles;4633Z
+Commerce de gros (commerce interentreprises) de boissons;4634Z
+Commerce de gros (commerce interentreprises) de produits à base de tabac;4635Z
+Commerce de gros (commerce interentreprises) de sucre, chocolat et confiserie;4636Z
+Commerce de gros (commerce interentreprises) de café, thé, cacao et épices;4637Z
+Commerce de gros (commerce interentreprises) de poissons, crustacés et mollusques;4638A
+Commerce de gros (commerce interentreprises) alimentaire spécialisé divers;4638B
+Commerce de gros (commerce interentreprises) de produits surgelés;4639A
+Commerce de gros (commerce interentreprises) alimentaire non spécialisé;4639B
+Commerce de gros (commerce interentreprises) de textiles;4641Z
+Commerce de gros (commerce interentreprises) d'habillement et de chaussures;4642Z
+Commerce de gros (commerce interentreprises) d'appareils électroménagers;4643Z
+Other farming of animals;125
+Commerce de gros (commerce interentreprises) de vaisselle, verrerie et produits d'entretien;4644Z
+Commerce de gros (commerce interentreprises) de parfumerie et de produits de beauté;4645Z
+Commerce de gros (commerce interentreprises) de produits pharmaceutiques;4646Z
+Commerce de gros (commerce interentreprises) de meubles, de tapis et d'appareils d'éclairage;4647Z
+Commerce de gros (commerce interentreprises) d'articles d'horlogerie et de bijouterie;4648Z
+Commerce de gros (commerce interentreprises) d'autres biens domestiques;4649Z
+Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels;4651Z
+Commerce de gros (commerce interentreprises) de composants et d'équipements électroniques et de télécommunication;4652Z
+Commerce de gros (commerce interentreprises) de matériel agricole;4661Z
+Commerce de gros (commerce interentreprises) de machines-outils;4662Z
+Commerce de gros (commerce interentreprises) de machines pour l'extraction, la construction et le génie civil;4663Z
+Commerce de gros (commerce interentreprises) de machines pour l'industrie textile et l'habillement;4664Z
+Commerce de gros (commerce interentreprises) de mobilier de bureau;4665Z
+Commerce de gros (commerce interentreprises) d'autres machines et équipements de bureau;4666Z
+Commerce de gros (commerce interentreprises) de matériel électrique;4669A
+Commerce de gros (commerce interentreprises) de fournitures et équipements industriels divers;4669B
+Commerce de gros (commerce interentreprises) de fournitures et équipements divers pour le commerce et les services;4669C
+Commerce de gros (commerce interentreprises) de combustibles et de produits annexes;4671Z
+Commerce de gros (commerce interentreprises) de minerais et métaux;4672Z
+Commerce de gros (commerce interentreprises) de bois et de matériaux de construction;4673A
+Commerce de gros (commerce interentreprises) d'appareils sanitaires et de produits de décoration;4673B
+Commerce de gros (commerce interentreprises) de quincaillerie;4674A
+Commerce de gros (commerce interentreprises) de fournitures pour la plomberie et le chauffage;4674B
+Commerce de gros (commerce interentreprises) de produits chimiques;4675Z
+Commerce de gros (commerce interentreprises) d'autres produits intermédiaires;4676Z
+Commerce de gros (commerce interentreprises) de déchets et débris;4677Z
+Commerce de gros (commerce interentreprises) non spécialisé;4690Z
+Commerce de détail de produits surgelés;4711A
+Commerce d'alimentation générale;4711B
+Supérettes;4711C
+Supermarchés;4711D
+Magasins multi-commerces;4711E
+Hypermarchés;4711 F
+Grands magasins;4719A
+Autres commerces de détail en magasin non spécialisé;4719B
+Commerce de détail de fruits et légumes en magasin spécialisé;4721Z
+Commerce de détail de viandes et de produits à base de viande en magasin spécialisé;4722Z
+Commerce de détail de poissons, crustacés et mollusques en magasin spécialisé;4723Z
+Commerce de détail de pain, pâtisserie et confiserie en magasin spécialisé;4724Z
+Commerce de détail de boissons en magasin spécialisé;4725Z
+Commerce de détail de produits à base de tabac en magasin spécialisé;4726Z
+Autres commerces de détail alimentaires en magasin spécialisé;4729Z
+Commerce de détail de carburants en magasin spécialisé;4730Z
+Commerce de détail d'ordinateurs, d'unités périphériques et de logiciels en magasin spécialisé;4741Z
+Commerce de détail de matériels de télécommunication en magasin spécialisé;4742Z
+Commerce de détail de matériels audio et vidéo en magasin spécialisé;4743Z
+Commerce de détail de textiles en magasin spécialisé;4751Z
+Commerce de détail de quincaillerie, peintures et verres en petites surfaces (moins de 400 m²);4752A
+Commerce de détail de quincaillerie, peintures et verres en grandes surfaces (400 m² et plus);4752B
+Commerce de détail de tapis, moquettes et revêtements de murs et de sols en magasin spécialisé;4753Z
+Commerce de détail d'appareils électroménagers en magasin spécialisé;4754Z
+Commerce de détail de meubles;4759A
+Commerce de détail d'autres équipements du foyer;4759B
+Commerce de détail de livres en magasin spécialisé;4761Z
+Commerce de détail de journaux et papeterie en magasin spécialisé;4762Z
+Commerce de détail d'enregistrements musicaux et vidéo en magasin spécialisé;4763Z
+Commerce de détail d'articles de sport en magasin spécialisé;4764Z
+Commerce de détail de jeux et jouets en magasin spécialisé;4765Z
+Commerce de détail d'habillement en magasin spécialisé;4771Z
+Commerce de détail de la chaussure;4772A
+Commerce de détail de maroquinerie et d'articles de voyage;4772B
+Commerce de détail de produits pharmaceutiques en magasin spécialisé;4773Z
+Commerce de détail d'articles médicaux et orthopédiques en magasin spécialisé;4774Z
+Commerce de détail de parfumerie et de produits de beauté en magasin spécialisé;4775Z
+Commerce de détail de fleurs, plantes, graines, engrais, animaux de compagnie et aliments pour ces animaux en magasin spécialisé;4776Z
+Commerce de détail d'articles d'horlogerie et de bijouterie en magasin spécialisé;4777Z
+Commerces de détail d'optique;4778A
+Commerces de détail de charbons et combustibles;4778B
+Autres commerces de détail spécialisés divers;4778C
+Commerce de détail de biens d'occasion en magasin;4779Z
+Commerce de détail alimentaire sur éventaires et marchés;4781Z
+Commerce de détail de textiles, d'habillement et de chaussures sur éventaires et marchés;4782Z
+Autres commerces de détail sur éventaires et marchés;4789Z
+Vente à distance sur catalogue général;4791A
+Vente à distance sur catalogue spécialisé;4791B
+Vente à domicile;4799A
+Vente par automates et autres commerces de détail hors magasin, éventaires ou marchés n.c.a.;4799B
+Transport ferroviaire interurbain de voyageurs;4910Z
+Transports ferroviaires de fret;4920Z
+Transports urbains et suburbains de voyageurs;4931Z
+Transports de voyageurs par taxis;4932Z
+Transports routiers réguliers de voyageurs;4939A
+Autres transports routiers de voyageurs;4939B
+Téléphériques et remontées mécaniques;4939C
+Transports routiers de fret interurbains;4941A
+Transports routiers de fret de proximité;4941B
+Location de camions avec chauffeur;4941C
+Services de déménagement;4942Z
+Transports par conduites;4950Z
+Transports maritimes et côtiers de passagers;5010Z
+Transports maritimes et côtiers de fret;5020Z
+Transports fluviaux de passagers;5030Z
+Transports fluviaux de fret;5040Z
+Transports aériens de passagers;5110Z
+Transports aériens de fret;5121Z
+Transports spatiaux;5122Z
+Entreposage et stockage frigorifique;5210A
+Entreposage et stockage non frigorifique;5210B
+Services auxiliaires des transports terrestres;5221Z
+Services auxiliaires des transports par eau;5222Z
+Services auxiliaires des transports aériens;5223Z
+Manutention portuaire;5224A
+Manutention non portuaire;5224B
+Messagerie, fret express;5229A
+Affrètement et organisation des transports;5229B
+Activités de poste dans le cadre d'une obligation de service universel;5310Z
+Autres activités de poste et de courrier;5320Z
+Hôtels et hébergement similaire;5510Z
+Hébergement touristique et autre hébergement de courte durée;5520Z
+Terrains de camping et parcs pour caravanes ou véhicules de loisirs;5530Z
+Autres hébergements;5590Z
+Restauration traditionnelle;5610A
+Cafétérias et autres libres-services;5610B
+Restauration de type rapide;5610C
+Services des traiteurs;5621Z
+Restauration collective sous contrat;5629A
+Autres services de restauration n.c.a.;5629B
+Débits de boissons;5630Z
+Édition de livres;5811Z
+Édition de répertoires et de fichiers d'adresses;5812Z
+Édition de journaux;5813Z
+Édition de revues et périodiques;5814Z
+Autres activités d'édition;5819Z
+Édition de jeux électroniques;5821Z
+Édition de logiciels système et de réseau;5829A
+Édition de logiciels outils de développement et de langages;5829B
+Édition de logiciels applicatifs;5829C
+Production de films et de programmes pour la télévision;5911A
+Production de films institutionnels et publicitaires;5911B
+Production de films pour le cinéma;5911C
+Post-production de films cinématographiques, de vidéo et de programmes de télévision;5912Z
+Distribution de films cinématographiques;5913A
+Édition et distribution vidéo;5913B
+Projection de films cinématographiques;5914Z
+Enregistrement sonore et édition musicale;5920Z
+Édition et diffusion de programmes radio;6010Z
+Édition de chaînes généralistes;6020A
+Édition de chaînes thématiques;6020B
+Télécommunications filaires;6110Z
+Télécommunications sans fil;6120Z
+Télécommunications par satellite;6130Z
+Autres activités de télécommunication;6190Z
+Programmation informatique;6201Z
+Conseil en systèmes et logiciels informatiques;6202A
+Tierce maintenance de systèmes et d'applications informatiques;6202B
+Gestion d'installations informatiques;6203Z
+Autres activités informatiques;6209Z
+Traitement de données, hébergement et activités connexes;6311Z
+Portails Internet;6312Z
+Activités des agences de presse;6391Z
+Autres services d'information n.c.a.;6399Z
+Activités de banque centrale;6411Z
+Autres intermédiations monétaires;6419Z
+Activités des sociétés holding;6420Z
+Fonds de placement et entités financières similaires;6430Z
+Crédit-bail;6491Z
+Autre distribution de crédit;6492Z
+Autres activités des services financiers, hors assurance et caisses de retraite, n.c.a.;6499Z
+Assurance vie;6511Z
+Autres assurances;6512Z
+Réassurance;6520Z
+Caisses de retraite;6530Z
+Administration de marchés financiers;6611Z
+Courtage de valeurs mobilières et de marchandises;6612Z
+Supports juridiques de gestion de patrimoine mobilier;6619A
+Autres activités auxiliaires de services financiers, hors assurance et caisses de retraite, n.c.a.;6619B
+Évaluation des risques et dommages;6621Z
+Activités des agents et courtiers d'assurances;6622Z
+Autres activités auxiliaires d'assurance et de caisses de retraite;6629Z
+Gestion de fonds;6630Z
+Activités des marchands de biens immobiliers;6810Z
+Location de logements;6820A
+Location de terrains et d'autres biens immobiliers;6820B
+Agences immobilières;6831Z
+Administration d'immeubles et autres biens immobiliers;6832A
+Supports juridiques de gestion de patrimoine immobilier;6832B
+Activités juridiques;6910Z
+Activités comptables;6920Z
+Activités des sièges sociaux;7010Z
+Conseil en relations publiques et communication;7021Z
+Conseil pour les affaires et autres conseils de gestion;7022Z
+Activités d'architecture;7111Z
+Activité des géomètres;7112A
+Ingénierie, études techniques;7112B
+Contrôle technique automobile;7120A
+Analyses, essais et inspections techniques;7120B
+Recherche-développement en biotechnologie;7211Z
+Recherche-développement en autres sciences physiques et naturelles;7219Z
+Recherche-développement en sciences humaines et sociales;7220Z
+Activités des agences de publicité;7311Z
+Régie publicitaire de médias;7312Z
+Études de marché et sondages;7320Z
+Activités spécialisées de design;7410Z
+Activités photographiques;7420Z
+Traduction et interprétation;7430Z
+Activité des économistes de la construction;7490A
+Hotels & motels;5511
+Activités spécialisées, scientifiques et techniques diverses;7490B
+Activités vétérinaires;7500Z
+Location de courte durée de voitures et de véhicules automobiles légers;7711A
+Location de longue durée de voitures et de véhicules automobiles légers;7711B
+Location et location-bail de camions;7712Z
+Location et location-bail d'articles de loisirs et de sport;7721Z
+Location de vidéocassettes et disques vidéo;7722Z
+Location et location-bail d'autres biens personnels et domestiques;7729Z
+Location et location-bail de machines et équipements agricoles;7731Z
+Location et location-bail de machines et équipements pour la construction;7732Z
+Location et location-bail de machines de bureau et de matériel informatique;7733Z
+Location et location-bail de matériels de transport par eau;7734Z
+Location et location-bail de matériels de transport aérien;7735Z
+Location et location-bail d'autres machines, équipements et biens matériels n.c.a.;7739Z
+Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright;7740Z
+Activités des agences de placement de main-d'œuvre;7810Z
+Activités des agences de travail temporaire;7820Z
+Autre mise à disposition de ressources humaines;7830Z
+Activités des agences de voyage;7911Z
+Activités des voyagistes;7912Z
+Autres services de réservation et activités connexes;7990Z
+Activités de sécurité privée;8010Z
+Activités liées aux systèmes de sécurité;8020Z
+Activités d'enquête;8030Z
+Activités combinées de soutien lié aux bâtiments;8110Z
+Nettoyage courant des bâtiments;8121Z
+Autres activités de nettoyage des bâtiments et nettoyage industriel;8122Z
+Désinfection, désinsectisation, dératisation;8129A
+Autres activités de nettoyage n.c.a.;8129B
+Services d'aménagement paysager;8130Z
+Services administratifs combinés de bureau;8211Z
+Photocopie, préparation de documents et autres activités spécialisées de soutien de bureau;8219Z
+Activités de centres d'appels;8220Z
+Organisation de foires, salons professionnels et congrès;8230Z
+Activités des agences de recouvrement de factures et des sociétés d'information financière sur la clientèle;8291Z
+Activités de conditionnement;8292Z
+Autres activités de soutien aux entreprises n.c.a.;8299Z
+Administration publique générale;8411Z
+Administration publique (tutelle) de la santé, de la formation, de la culture et des services sociaux, autre que sécurité sociale;8412Z
+Administration publique (tutelle) des activités économiques;8413Z
+Affaires étrangères;8421Z
+Défense;8422Z
+Justice;8423Z
+Activités d'ordre public et de sécurité;8424Z
+Services du feu et de secours;8425Z
+Activités générales de sécurité sociale;8430A
+Gestion des retraites complémentaires;8430B
+Distribution sociale de revenus;8430C
+Enseignement pré-primaire;8510Z
+Enseignement primaire;8520Z
+Enseignement secondaire général;8531Z
+Enseignement secondaire technique ou professionnel;8532Z
+Enseignement post-secondaire non supérieur;8541Z
+Enseignement supérieur;8542Z
+Enseignement de disciplines sportives et d'activités de loisirs;8551Z
+Enseignement culturel;8552Z
+Enseignement de la conduite;8553Z
+Formation continue d'adultes;8559A
+Autres enseignements;8559B
+Activités de soutien à l'enseignement;8560Z
+Activités hospitalières;8610Z
+Activité des médecins généralistes;8621Z
+Activités de radiodiagnostic et de radiothérapie;8622A
+Activités chirurgicales;8622B
+Autres activités des médecins spécialistes;8622C
+Pratique dentaire;8623Z
+Ambulances;8690A
+Laboratoires d'analyses médicales;8690B
+Centres de collecte et banques d'organes;8690C
+Activités des infirmiers et des sages-femmes;8690D
+Activités des professionnels de la rééducation, de l'appareillage et des pédicures-podologues;8690E
+Activités de santé humaine non classées ailleurs;8690 F
+Hébergement médicalisé pour personnes âgées;8710A
+Hébergement médicalisé pour enfants handicapés;8710B
+Hébergement médicalisé pour adultes handicapés et autre hébergement médicalisé;8710C
+Hébergement social pour handicapés mentaux et malades mentaux;8720A
+Hébergement social pour toxicomanes;8720B
+Hébergement social pour personnes âgées;8730A
+Hébergement social pour handicapés physiques;8730B
+Hébergement social pour enfants en difficultés;8790A
+Hébergement social pour adultes et familles en difficultés et autre hébergement social;8790B
+Aide à domicile;8810A
+Accueil ou accompagnement sans hébergement d'adultes handicapés ou de personnes âgées;8810B
+Aide par le travail;8810C
+Accueil de jeunes enfants;8891A
+Accueil ou accompagnement sans hébergement d'enfants handicapés;8891B
+Autre accueil ou accompagnement sans hébergement d'enfants et d'adolescents;8899A
+Action sociale sans hébergement n.c.a.;8899B
+Arts du spectacle vivant;9001Z
+Activités de soutien au spectacle vivant;9002Z
+Création artistique relevant des arts plastiques;9003A
+Autre création artistique;9003B
+Gestion de salles de spectacles;9004Z
+Gestion des bibliothèques et des archives;9101Z
+Gestion des musées;9102Z
+Gestion des sites et monuments historiques et des attractions touristiques similaires;9103Z
+Gestion des jardins botaniques et zoologiques et des réserves naturelles;9104Z
+Organisation de jeux de hasard et d'argent;9200Z
+Gestion d'installations sportives;9311Z
+Activités de clubs de sports;9312Z
+Activités des centres de culture physique;9313Z
+Autres activités liées au sport;9319Z
+Activités des parcs d'attractions et parcs à thèmes;9321Z
+Autres activités récréatives et de loisirs;9329Z
+Activités des organisations patronales et consulaires;9411Z
+Activités des organisations professionnelles;9412Z
+Activités des syndicats de salariés;9420Z
+Activités des organisations religieuses;9491Z
+Activités des organisations politiques;9492Z
+Autres organisations fonctionnant par adhésion volontaire;9499Z
+Réparation d'ordinateurs et d'équipements périphériques;9511Z
+Réparation d'équipements de communication;9512Z
+Réparation de produits électroniques grand public;9521Z
+Réparation d'appareils électroménagers et d'équipements pour la maison et le jardin;9522Z
+Réparation de chaussures et d'articles en cuir;9523Z
+Réparation de meubles et d'équipements du foyer;9524Z
+Réparation d'articles d'horlogerie et de bijouterie;9525Z
+Réparation d'autres biens personnels et domestiques;9529Z
+Blanchisserie-teinturerie de gros;9601A
+Blanchisserie-teinturerie de détail;9601B
+Coiffure;9602A
+Soins de beauté;9602B
+Services funéraires;9603Z
+Entretien corporel;9604Z
+Autres services personnels n.c.a.;9609Z
+Activités des ménages en tant qu'employeurs de personnel domestique;9700Z
+Activités indifférenciées des ménages en tant que producteurs de biens pour usage propre;9810Z
+Activités indifférenciées des ménages en tant que producteurs de services pour usage propre;9820Z
+Activités des organisations et organismes extraterritoriaux;9900Z
